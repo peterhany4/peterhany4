@@ -46,14 +46,23 @@
 
 ## 📌 Featured Projects
 
-### 📝 Todo App
-A modern task management application built with React.
+### 🎮 [RPS-Game](https://github.com/peterhany4/RPS-Game)
+A Rock-Paper-Scissors game implementation.
 
-### 💰 POS / Cashier System
-Simple cashier system project focused on usability and offline support.
+### 🛍️ [Mobile Shop](https://github.com/peterhany4/Mobile_Shop)
+Mobile shop management system.
 
-### 🌐 Portfolio Website
-Personal portfolio website showcasing projects and skills.
+### 🎓 [Medura](https://github.com/peterhany4/Medura)
+An educational technology project built with modern web technologies.
+
+### 🗳️ [Simulating the Electoral Voting Process](https://github.com/peterhany4/Simulating-the-Electoral-Voting-Process)
+A C++ project simulating electoral voting mechanisms.
+
+### 🤖 [DeepX Hackathon](https://github.com/peterhany4/DeepX-Hackathon)
+Deep learning and AI project from hackathon participation.
+
+### 💻 [C3](https://github.com/peterhany4/C3)
+TypeScript-based project.
 
 ---
 
@@ -70,7 +79,7 @@ Personal portfolio website showcasing projects and skills.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=peterhany4&theme=tokyonight" />
 </p>
 
 ---
