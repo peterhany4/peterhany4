@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Peter Hany</h1>
-<h3 align="center">Frontend & Software Developer from Egypt</h3>
+<h3 align="center">Full Stack & Software Developer</h3>
 
 <p align="center">
-  Passionate about building responsive web applications, robust desktop software, and learning modern technologies.
+  Passionate about building responsive web applications, robust backend systems, and learning modern technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Developer focused on building clean, efficient, and responsive applications across multiple languages and platforms.
+- 💻 Full Stack Developer focused on building clean, efficient, and responsive applications across multiple languages and platforms.
 - 🌱 Currently learning:
   - Databases & Backend Architecture
   - Node.js & Express
   - Advanced Full Stack Development
 - ⚡ Interested in:
   - Software Engineering & Architecture
-  - Desktop & Web Applications
+  - Web & Desktop Applications
   - Problem Solving & Algorithms
 - 🎯 Goal:
   - Gain real-world experience through internships, open source, and impactful projects.
@@ -75,17 +75,9 @@ Data science and AI project from hackathon participation. *(Jupyter Notebook)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterhany4&show_icons=true&theme=tokyonight&hide_rank=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhany4&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=peterhany4&theme=tokyonight" />
+  <a href="https://github.com/peterhany4">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterhany4&theme=tokyonight" />
+  </a>
 </p>
 
 ---
