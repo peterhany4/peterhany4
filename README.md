@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Hany</h1>
-<h3 align="center">Frontend & Software Developer</h3>
+<h3 align="center">Frontend & Software Developer from Egypt</h3>
 
 <p align="center">
   Passionate about building responsive web applications, robust desktop software, and learning modern technologies.
@@ -75,9 +75,9 @@ Data science and AI project from hackathon participation. *(Jupyter Notebook)*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterhany4&show_icons=true&theme=tokyonight" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhany4&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peterhany4&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhany4&layout=compact&theme=tokyonight" />
 </p>
 
 ---
